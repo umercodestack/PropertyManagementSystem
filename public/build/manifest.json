@@ -1,0 +1,220 @@
+{
+  "node_modules/@mdi/font/fonts/materialdesignicons-webfont.eot": {
+    "file": "assets/materialdesignicons-webfont-CSr8KVlo.eot",
+    "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.eot"
+  },
+  "node_modules/@mdi/font/fonts/materialdesignicons-webfont.ttf": {
+    "file": "assets/materialdesignicons-webfont-B7mPwVP_.ttf",
+    "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.ttf"
+  },
+  "node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff": {
+    "file": "assets/materialdesignicons-webfont-PXm3-2wK.woff",
+    "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff"
+  },
+  "node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff2": {
+    "file": "assets/materialdesignicons-webfont-Dp5v-WZN.woff2",
+    "src": "node_modules/@mdi/font/fonts/materialdesignicons-webfont.woff2"
+  },
+  "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.eot": {
+    "file": "assets/MaterialIcons-Regular-BjXOXp5c.eot",
+    "src": "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.eot"
+  },
+  "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.ttf": {
+    "file": "assets/MaterialIcons-Regular-DEUTIz1o.ttf",
+    "src": "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.ttf"
+  },
+  "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.woff": {
+    "file": "assets/MaterialIcons-Regular-FsbMSDLx.woff",
+    "src": "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.woff"
+  },
+  "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.woff2": {
+    "file": "assets/MaterialIcons-Regular-DOtZ65Va.woff2",
+    "src": "node_modules/material-design-icons-iconfont/dist/fonts/MaterialIcons-Regular.woff2"
+  },
+  "public/assets/assets/fonts/Nioicon.eot": {
+    "file": "assets/Nioicon-ZSJoPvY7.eot",
+    "src": "public/assets/assets/fonts/Nioicon.eot"
+  },
+  "public/assets/assets/fonts/Nioicon.svg": {
+    "file": "assets/Nioicon-CtuDdbfZ.svg",
+    "src": "public/assets/assets/fonts/Nioicon.svg"
+  },
+  "public/assets/assets/fonts/Nioicon.ttf": {
+    "file": "assets/Nioicon-ggTe3wFo.ttf",
+    "src": "public/assets/assets/fonts/Nioicon.ttf"
+  },
+  "public/assets/assets/fonts/Nioicon.woff": {
+    "file": "assets/Nioicon-DFHEjV7e.woff",
+    "src": "public/assets/assets/fonts/Nioicon.woff"
+  },
+  "public/assets/assets/fonts/Nunito-Bold.eot": {
+    "file": "assets/Nunito-Bold-DXkw16y9.eot",
+    "src": "public/assets/assets/fonts/Nunito-Bold.eot"
+  },
+  "public/assets/assets/fonts/Nunito-Bold.ttf": {
+    "file": "assets/Nunito-Bold-E4WWBfJS.ttf",
+    "src": "public/assets/assets/fonts/Nunito-Bold.ttf"
+  },
+  "public/assets/assets/fonts/Nunito-Bold.woff": {
+    "file": "assets/Nunito-Bold-C-LBwSZ0.woff",
+    "src": "public/assets/assets/fonts/Nunito-Bold.woff"
+  },
+  "public/assets/assets/fonts/Nunito-Bold.woff2": {
+    "file": "assets/Nunito-Bold-CqlRzoaE.woff2",
+    "src": "public/assets/assets/fonts/Nunito-Bold.woff2"
+  },
+  "public/assets/assets/fonts/Nunito-Regular.eot": {
+    "file": "assets/Nunito-Regular-DsRLXTRo.eot",
+    "src": "public/assets/assets/fonts/Nunito-Regular.eot"
+  },
+  "public/assets/assets/fonts/Nunito-Regular.ttf": {
+    "file": "assets/Nunito-Regular-Dm_Elocd.ttf",
+    "src": "public/assets/assets/fonts/Nunito-Regular.ttf"
+  },
+  "public/assets/assets/fonts/Nunito-Regular.woff": {
+    "file": "assets/Nunito-Regular-VCwdpEvf.woff",
+    "src": "public/assets/assets/fonts/Nunito-Regular.woff"
+  },
+  "public/assets/assets/fonts/Nunito-Regular.woff2": {
+    "file": "assets/Nunito-Regular-CaFVKpgy.woff2",
+    "src": "public/assets/assets/fonts/Nunito-Regular.woff2"
+  },
+  "public/assets/assets/fonts/Roboto-Bold.eot": {
+    "file": "assets/Roboto-Bold-D_X5cL-b.eot",
+    "src": "public/assets/assets/fonts/Roboto-Bold.eot"
+  },
+  "public/assets/assets/fonts/Roboto-Bold.ttf": {
+    "file": "assets/Roboto-Bold-5byz6fKo.ttf",
+    "src": "public/assets/assets/fonts/Roboto-Bold.ttf"
+  },
+  "public/assets/assets/fonts/Roboto-Bold.woff": {
+    "file": "assets/Roboto-Bold-B7cOq_fN.woff",
+    "src": "public/assets/assets/fonts/Roboto-Bold.woff"
+  },
+  "public/assets/assets/fonts/Roboto-Bold.woff2": {
+    "file": "assets/Roboto-Bold-B2n1BHly.woff2",
+    "src": "public/assets/assets/fonts/Roboto-Bold.woff2"
+  },
+  "public/assets/assets/fonts/Roboto-Light.eot": {
+    "file": "assets/Roboto-Light-DKDbSA-H.eot",
+    "src": "public/assets/assets/fonts/Roboto-Light.eot"
+  },
+  "public/assets/assets/fonts/Roboto-Light.ttf": {
+    "file": "assets/Roboto-Light-CvdGXh6_.ttf",
+    "src": "public/assets/assets/fonts/Roboto-Light.ttf"
+  },
+  "public/assets/assets/fonts/Roboto-Light.woff": {
+    "file": "assets/Roboto-Light-D8eEbjjJ.woff",
+    "src": "public/assets/assets/fonts/Roboto-Light.woff"
+  },
+  "public/assets/assets/fonts/Roboto-Light.woff2": {
+    "file": "assets/Roboto-Light-BND1yEHK.woff2",
+    "src": "public/assets/assets/fonts/Roboto-Light.woff2"
+  },
+  "public/assets/assets/fonts/Roboto-Medium.eot": {
+    "file": "assets/Roboto-Medium-wdXOcZVn.eot",
+    "src": "public/assets/assets/fonts/Roboto-Medium.eot"
+  },
+  "public/assets/assets/fonts/Roboto-Medium.ttf": {
+    "file": "assets/Roboto-Medium-D3k-fcGv.ttf",
+    "src": "public/assets/assets/fonts/Roboto-Medium.ttf"
+  },
+  "public/assets/assets/fonts/Roboto-Medium.woff": {
+    "file": "assets/Roboto-Medium-BFS8JZeR.woff",
+    "src": "public/assets/assets/fonts/Roboto-Medium.woff"
+  },
+  "public/assets/assets/fonts/Roboto-Medium.woff2": {
+    "file": "assets/Roboto-Medium--cGQoWUT.woff2",
+    "src": "public/assets/assets/fonts/Roboto-Medium.woff2"
+  },
+  "public/assets/assets/fonts/Roboto-Regular.eot": {
+    "file": "assets/Roboto-Regular-CFbaRf1w.eot",
+    "src": "public/assets/assets/fonts/Roboto-Regular.eot"
+  },
+  "public/assets/assets/fonts/Roboto-Regular.ttf": {
+    "file": "assets/Roboto-Regular-Ds6KraGe.ttf",
+    "src": "public/assets/assets/fonts/Roboto-Regular.ttf"
+  },
+  "public/assets/assets/fonts/Roboto-Regular.woff": {
+    "file": "assets/Roboto-Regular-BsN8iP2n.woff",
+    "src": "public/assets/assets/fonts/Roboto-Regular.woff"
+  },
+  "public/assets/assets/fonts/Roboto-Regular.woff2": {
+    "file": "assets/Roboto-Regular-56L6iL-I.woff2",
+    "src": "public/assets/assets/fonts/Roboto-Regular.woff2"
+  },
+  "public/assets/assets/fonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400-DClAY--T.eot",
+    "src": "public/assets/assets/fonts/fa-brands-400.eot"
+  },
+  "public/assets/assets/fonts/fa-brands-400.svg": {
+    "file": "assets/fa-brands-400-dmELoA3c.svg",
+    "src": "public/assets/assets/fonts/fa-brands-400.svg"
+  },
+  "public/assets/assets/fonts/fa-brands-400.ttf": {
+    "file": "assets/fa-brands-400-CIXgOpOQ.ttf",
+    "src": "public/assets/assets/fonts/fa-brands-400.ttf"
+  },
+  "public/assets/assets/fonts/fa-brands-400.woff": {
+    "file": "assets/fa-brands-400-Wx_b0Svh.woff",
+    "src": "public/assets/assets/fonts/fa-brands-400.woff"
+  },
+  "public/assets/assets/fonts/fa-brands-400.woff2": {
+    "file": "assets/fa-brands-400-F-vh2M2S.woff2",
+    "src": "public/assets/assets/fonts/fa-brands-400.woff2"
+  },
+  "public/assets/assets/fonts/fa-regular-400.eot": {
+    "file": "assets/fa-regular-400-wYdGl1tf.eot",
+    "src": "public/assets/assets/fonts/fa-regular-400.eot"
+  },
+  "public/assets/assets/fonts/fa-regular-400.svg": {
+    "file": "assets/fa-regular-400-DHKNVWDy.svg",
+    "src": "public/assets/assets/fonts/fa-regular-400.svg"
+  },
+  "public/assets/assets/fonts/fa-regular-400.ttf": {
+    "file": "assets/fa-regular-400-xJJZjenl.ttf",
+    "src": "public/assets/assets/fonts/fa-regular-400.ttf"
+  },
+  "public/assets/assets/fonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400-D0I26DEG.woff",
+    "src": "public/assets/assets/fonts/fa-regular-400.woff"
+  },
+  "public/assets/assets/fonts/fa-regular-400.woff2": {
+    "file": "assets/fa-regular-400-nlupHwI1.woff2",
+    "src": "public/assets/assets/fonts/fa-regular-400.woff2"
+  },
+  "public/assets/assets/fonts/fa-solid-900.eot": {
+    "file": "assets/fa-solid-900-Ve_7YDOb.eot",
+    "src": "public/assets/assets/fonts/fa-solid-900.eot"
+  },
+  "public/assets/assets/fonts/fa-solid-900.svg": {
+    "file": "assets/fa-solid-900-CnTHMN-w.svg",
+    "src": "public/assets/assets/fonts/fa-solid-900.svg"
+  },
+  "public/assets/assets/fonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900-1A1aw3ks.ttf",
+    "src": "public/assets/assets/fonts/fa-solid-900.ttf"
+  },
+  "public/assets/assets/fonts/fa-solid-900.woff": {
+    "file": "assets/fa-solid-900-d08C2v-5.woff",
+    "src": "public/assets/assets/fonts/fa-solid-900.woff"
+  },
+  "public/assets/assets/fonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900-D3IoOn-o.woff2",
+    "src": "public/assets/assets/fonts/fa-solid-900.woff2"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-By3PMrPE.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BY2OLKuT.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-xr3JyILy.css"
+    ]
+  }
+}
